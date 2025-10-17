@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Animal
+comment1.params=nombre\ peso\ maxPeso
+comment1.target=Animal(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ comer()
+comment3.params=nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=peso
+comment4.target=void\ setPeso(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
