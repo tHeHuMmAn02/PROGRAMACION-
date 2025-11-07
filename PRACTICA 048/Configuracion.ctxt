@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Configuracion
+comment1.params=modo
+comment1.target=Configuracion(java.lang.String)
+comment2.params=
+comment2.target=Configuracion\ getInstancia()
+comment3.params=
+comment3.target=java.lang.String\ getModo()
+comment4.params=modo
+comment4.target=void\ setModo(java.lang.String)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
